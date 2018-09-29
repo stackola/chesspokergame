@@ -23,7 +23,8 @@ body{
 }
 h1,h2{
 	margin: 0;
-	font-weight: 300;
+	font-weight: 400;
+	color: black;
 	padding: 0;
 }
 
